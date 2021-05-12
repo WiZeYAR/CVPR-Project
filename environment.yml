@@ -1,0 +1,16 @@
+name: cvpr
+
+channels:
+  - conda-forge
+
+dependencies:
+  - python
+  - opencv
+  - numpy
+  - matplotlib
+  - scipy
+  - tqdm
+  - black
+  - wheel
+  - setuptools
+  - twine
